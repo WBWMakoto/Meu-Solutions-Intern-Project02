@@ -6,6 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-MeU_EventManagementSystem_API-2a66cec2-ffb9-46e4-9de6-50dbc9c3255f</UserSecretsId>
     <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+	<GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>$(NoWarn);1591</NoWarn>
     <DockerfileContext>.</DockerfileContext>
   </PropertyGroup>
 

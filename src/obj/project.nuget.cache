@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XkOST3mLuyGTZ2BOD4ASz5cwPjmCN7F621pJ8KbXbrAWZ8kdvEdBDnDnLK85IyFZ8lSI54SgXs6z0AHRptkP2Q==",
+  "dgSpecHash": "pQf3gJjTvPErGcDOLtR+w+zc3sxxpfv8Vs9Bihht+rcL4SZZ2/5BMIBcN5ziYXwiw+Om2kU6z4umPtD7BcXVBw==",
   "success": true,
-  "projectFilePath": "D:\\MeU_EventManagementSystem_API\\MeU_EventManagementSystem_API.csproj",
+  "projectFilePath": "D:\\Meu Solutions\\Intern Project 02 - Jwt, Event Management Swagger\\src\\MeU_EventManagementSystem_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

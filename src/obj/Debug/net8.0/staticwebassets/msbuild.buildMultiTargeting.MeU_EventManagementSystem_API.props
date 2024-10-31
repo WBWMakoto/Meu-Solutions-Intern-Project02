@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MeU_EventManagementSystem_API.props" />
+</Project>

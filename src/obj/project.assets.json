@@ -4804,11 +4804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MeU_EventManagementSystem_API\\MeU_EventManagementSystem_API.csproj",
+      "projectUniqueName": "D:\\Meu Solutions\\Intern Project 02 - Jwt, Event Management Swagger\\src\\MeU_EventManagementSystem_API.csproj",
       "projectName": "MeU_EventManagementSystem_API",
-      "projectPath": "D:\\MeU_EventManagementSystem_API\\MeU_EventManagementSystem_API.csproj",
+      "projectPath": "D:\\Meu Solutions\\Intern Project 02 - Jwt, Event Management Swagger\\src\\MeU_EventManagementSystem_API.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\MeU_EventManagementSystem_API\\obj\\",
+      "outputPath": "D:\\Meu Solutions\\Intern Project 02 - Jwt, Event Management Swagger\\src\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
